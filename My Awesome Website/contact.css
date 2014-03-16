@@ -1,0 +1,27 @@
+a{
+			font-size: 30px;
+			text-decoration: underline;
+			color: yellow;
+			font-weight: bold;
+			padding: 20px;
+		}
+a:hover{
+	color: red;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+		body{
+		text-align: center;
+		background: url("http://upload.wikimedia.org/wikipedia/commons/d/d2/San_Francisco_Bay_aerial_view.jpg");
+		background-size: cover;
+		background-position: center;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		color: yellow;
+		font-size: 20px;
+	}
+	h2{
+		position: relative;
+		margin-top: 120px;
+	}

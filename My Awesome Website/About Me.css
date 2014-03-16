@@ -1,0 +1,35 @@
+a{
+	font-size: 30px;
+	text-decoration: underline;
+	color: white;
+	font-weight: bold;
+	padding: 20px;
+}
+a:hover{
+	color: red;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+body{
+	text-align: center;
+	background: url("http://stylegerms.com/wp-content/uploads/2013/06/abstract-vista-wallpaper-windows-desktop-background.jpg");
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	color: white;
+}
+article{
+	text-align: justify;
+	margin: 0 auto;
+	max-width:700px;
+	color: white;
+}
+.slider {
+  margin: 10px 0px 50px 350px;
+  width: 580px;
+  height: 250px; 
+  position: absolute;
+  overflow: hidden;
+}

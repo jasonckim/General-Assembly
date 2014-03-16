@@ -1,0 +1,68 @@
+
+a{
+		font-size: 30px;
+		text-decoration: underline;
+		color: white;
+		font-weight: bold;
+		padding: 20px;
+}
+a:hover{
+	color: red;
+	font-weight: bold;
+	text-decoration: none;
+}
+h1{
+	font-size: 40px;
+	color:yellow;
+	position: center;
+}
+body{
+	background: url("http://www.rentcafe.com/blog/wp-content/uploads/2012/03/Fotolia_30186172_Subscription_XXL.jpg");
+	background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+}
+#center img{
+	height: 400px;	
+	width: 300px;
+	border: 7px solid yellow;
+}
+p{
+	color:white;
+	font-size: 15px;
+}
+#right {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+#right img {
+    height: auto;
+    width: auto;
+    max-height: 300px;
+    max-width: 300px;
+    border: 5px solid yellow;
+}
+#right div{
+	color: white;
+	position: absolute;
+	top: 240px;
+	right: 10px;
+}
+#bottom{
+	position: absolute;
+	bottom: 0px;
+	left:0px;
+}
+#bottom img{
+	height: auto;
+	width: auto;
+	max-width: 300px;
+	max-height: 300px;
+	border: 5px solid yellow;
+}
+#bottom div{
+	color: white;
+}

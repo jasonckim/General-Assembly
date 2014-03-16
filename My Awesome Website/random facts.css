@@ -1,0 +1,16 @@
+a{
+		font-size: 30px;
+		text-decoration: underline;
+		color: white;
+		font-weight: bold;
+		padding: 20px;
+	}
+	a:hover{
+	color: red;
+	font-weight: bold;
+	text-decoration: none;
+}
+	body{
+		background: url("http://i.imgur.com/ikUh4GX.png");
+		text-align: center;
+	}
