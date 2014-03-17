@@ -1,4 +1,4 @@
-a{
+div a{
 	font-size: 30px;
 	text-decoration: underline;
 	color: white;
@@ -10,7 +10,9 @@ a:hover{
 	font-weight: bold;
 	text-decoration: none;
 }
-
+a{
+	color:yellow;
+}
 body{
 	text-align: center;
 	background: url("http://stylegerms.com/wp-content/uploads/2013/06/abstract-vista-wallpaper-windows-desktop-background.jpg");
